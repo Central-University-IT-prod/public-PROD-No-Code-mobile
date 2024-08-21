@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85576099394",
+    "project_id": "prodvizhenie-c9e1e",
+    "storage_bucket": "prodvizhenie-c9e1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85576099394:android:b62cae23b506ea881aefdb",
+        "android_client_info": {
+          "package_name": "com.ari.prodvizhenie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "XXX"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
